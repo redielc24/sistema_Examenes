@@ -1,0 +1,20 @@
+En esta version esta funcionando correctamente lo siguiente
+
+- Con o sin Temporizador el examen con PDF
+- Se añadio columnas en la tabla visor de imagenes
+	* Ver cuantas preguntas tiene el examen
+	* Mejorado el boton para activar o desactivar examenes
+	* boton para ver las preguntas y respuestas correctas del examen seleccionado
+03/12/24
+				* Se ha implementado la opcion de que el sistema reconozca el tipo de examen
+				  y con ello redirija al examen correspodiente.
+				* Por ahora esta funcionando correctamente para el tipo de examen examen_pdf.php
+				* Se mejoro la llegada de variables, ya no se puede visualizar en la URL (era peligroso)
+				
+				
+			12:08 pm.
+			
+			* Se implemento el tipo de examen de texto (examen_texto.php) y funciona correctamente
+			* Se mejoro la parte de presentacion de preguntas y alternativas de este tipo de examen
+			* Se logró poner de manera aleatoria tanto las preguntas como las alternativas
+	
